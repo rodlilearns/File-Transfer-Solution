@@ -1,0 +1,5 @@
+---
+webservers:
+  hosts:
+    fedoraservera:
+    fedoraserverb:
